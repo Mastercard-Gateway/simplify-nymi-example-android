@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1e039d0eaf9b788fff82adbe6e10c29047b04437.jar"
+        jar="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bb46f336e24ccb5c394ca69cebe4674d059c0afe.jar"
+        jar="/Applications/Android Studio.app/Contents/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/classes-0fe572a59bdcf029c21521fbb374c5f7c186f782.jar"
+        jar="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/classes-19fd6370a7073a82c6fe940f6abe2125c9017edc.jar"
+        jar="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/exploded-aar/MasterCardSample/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="760b1592608e2bffaca9785cb0c0e55ad6a067c7"/>
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/gson-2.3-56269516d58027e32fa050dfd1e3e2c235efdfe8.jar"
+        jar="/Users/siddique/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/pre-dexed/debug/Ncl-7dad01203ad3f6dc38c21ace1d4d349a77557e70.jar"
+        jar="/Users/siddique/Projects/NextHackathon/MasterCardSample/app/build/intermediates/exploded-aar/MasterCardSample/library/unspecified/libs/Ncl.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ebd6d95e8c9ea021e0e505ea1a6fa93bbd3db2b7"/>
+
+</pre-dex-items>

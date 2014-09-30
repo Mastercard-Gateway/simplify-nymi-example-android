@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="simplify_zero">0dp</dimen>
+
+    <dimen name="simplify_padding">15dp</dimen>
+    <dimen name="simplify_padding_half">8dp</dimen>
+    <dimen name="simplify_padding_double">30dp</dimen>
+
+    <dimen name="simplify_height_row">50dp</dimen>
+
+    <dimen name="simplify_spacing_row">1dp</dimen>
+
+    <dimen name="simplify_text_xlarge">30sp</dimen>
+    <dimen name="simplify_text_large">22sp</dimen>
+    <dimen name="simplify_text_small">15sp</dimen>
+
+</resources>

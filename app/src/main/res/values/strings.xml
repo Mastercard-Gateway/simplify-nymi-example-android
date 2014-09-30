@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NymiPay</string>
+    <string name="btnOkText">Confirm</string>
+    <string name="btnCancelText">Cancel</string>    
+    <string name="title_activity_payment_response">PaymentResponseActivity</string>
+
+</resources>

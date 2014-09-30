@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="simplify_charge_a_card">Charge a Card</string>
+    <string name="simplify_close">Close</string>
+    <string name="simplify_card_number_hint">0000 0000 0000 0000</string>
+    <string name="simplify_exp">EXP</string>
+    <string name="simplify_exp_hint">MM/YY</string>
+    <string name="simplify_cvc">CVC</string>
+    <string name="simplify_cvc_hint">000</string>
+    <string name="simplify_charge">Charge %1$s</string>
+    <string name="simplify_charge_card">Charge Card</string>
+    <string name="simplify_success">Success!</string>
+    <string name="simplify_success_message">Your payment has been processed.</string>
+    <string name="simplify_failure">Failure.</string>
+    <string name="simplify_error_message">There was an error processing your payment.</string>
+    <string name="simplify_try_again">Try Again</string>
+  <string name="app_name">Simplify SDK Sample</string>
+    <string name="hello_world">Hello Benny!</string>
+</resources>

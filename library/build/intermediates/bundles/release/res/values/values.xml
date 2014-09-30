@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/siddique/Projects/NextHackathon/MasterCardSample/library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="simplify_green_light">#ffebf7e6</color>
+    <color name="simplify_grey">#ff666666</color>
+    <color name="simplify_grey_dark">#ff333333</color>
+    <color name="simplify_grey_light">#ffdddddd</color>
+    <color name="simplify_orange">#fffc6621</color>
+    <color name="simplify_red_light">#fff7e6e6</color>
+    <declare-styleable name="CardEditor"><attr format="boolean" name="closeable"/><attr format="float" name="amount"/><attr format="color" name="themeColor"/></declare-styleable>
+    <!-- From: file:/Users/siddique/Projects/NextHackathon/MasterCardSample/library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="simplify_height_row">50dp</dimen>
+    <dimen name="simplify_padding">15dp</dimen>
+    <dimen name="simplify_padding_double">30dp</dimen>
+    <dimen name="simplify_padding_half">8dp</dimen>
+    <dimen name="simplify_spacing_row">1dp</dimen>
+    <dimen name="simplify_text_large">22sp</dimen>
+    <dimen name="simplify_text_small">15sp</dimen>
+    <dimen name="simplify_text_xlarge">30sp</dimen>
+    <dimen name="simplify_zero">0dp</dimen>
+    <!-- From: file:/Users/siddique/Projects/NextHackathon/MasterCardSample/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Simplify SDK Sample</string>
+    <string name="hello_world">Hello Benny!</string>
+    <string name="simplify_card_number_hint">0000 0000 0000 0000</string>
+    <string name="simplify_charge">Charge %1$s</string>
+    <string name="simplify_charge_a_card">Charge a Card</string>
+    <string name="simplify_charge_card">Charge Card</string>
+    <string name="simplify_close">Close</string>
+    <string name="simplify_cvc">CVC</string>
+    <string name="simplify_cvc_hint">000</string>
+    <string name="simplify_error_message">There was an error processing your payment.</string>
+    <string name="simplify_exp">EXP</string>
+    <string name="simplify_exp_hint">MM/YY</string>
+    <string name="simplify_failure">Failure.</string>
+    <string name="simplify_success">Success!</string>
+    <string name="simplify_success_message">Your payment has been processed.</string>
+    <string name="simplify_try_again">Try Again</string>
+    <!-- From: file:/Users/siddique/Projects/NextHackathon/MasterCardSample/library/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

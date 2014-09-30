@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CardEditor">
+        <!-- Toggles the visibility of the close button -->
+        <attr name="closeable" format="boolean"/>
+        <!-- The amount of the payment in which the card is being charged -->
+        <attr name="amount" format="float"/>
+        <!-- Defines the theme color for the view. (ie. charge button background/label colors) -->
+        <attr name="themeColor" format="color"/>
+    </declare-styleable>
+
+</resources>

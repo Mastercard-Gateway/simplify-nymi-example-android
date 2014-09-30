@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="simplify_grey">#ff666666</color>
+    <color name="simplify_grey_dark">#ff333333</color>
+    <color name="simplify_grey_light">#ffdddddd</color>
+    <color name="simplify_orange">#fffc6621</color>
+    <color name="simplify_green_light">#ffebf7e6</color>
+    <color name="simplify_red_light">#fff7e6e6</color>
+
+</resources>
