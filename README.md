@@ -13,11 +13,9 @@ Example Android project (Android Studio) with [Nymi](http://dev.getnymi.com/) an
 ## Steps
 
 1. Open project using Android Studio
-
     *Note: If you are using Eclipse, please update the source & library paths according to your project settings*
 
 2. Update SDK binaries under (https://github.com/simplifycom/simplify-nymi-example-android/tree/master/app/src/main/jniLibs/armeabi) based on your target environment
-
     *Note: This project was created on MacOS*
 
 3. Update API Keys & Server URL values in [Macro.java] (https://github.com/simplifycom/simplify-nymi-example-android/tree/master/app/src/main/jniLibs/armeabi)
